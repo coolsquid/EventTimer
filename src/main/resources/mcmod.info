@@ -1,0 +1,14 @@
+[{
+  "modid": "eventtimer",
+  "name": "EventTimer",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CoolSquid"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}]
